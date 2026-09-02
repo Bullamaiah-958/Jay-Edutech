@@ -1,0 +1,168 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["EducationalOrganization", "LocalBusiness"],
+      "@id": "https://jayedutech.com/#organization",
+      "name": "Jay Edutech",
+      "url": "https://jayedutech.com",
+      "logo": "https://jayedutech.com/logo.png",
+      "image": "https://jayedutech.com/logo.png",
+      "description": "ServiceNow offline and online training in Hyderabad with 100% placement assistance. We deliver CSA, CAD, ITSM, ITOM, HRSD, and CSM certification courses.",
+      "telephone": "+918309701907",
+      "email": "info.jayedutech@gmail.com",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Plot No 4, Kavitha Nivas, Jaffer Ali Bhag",
+        "addressLocality": "Somajiguda",
+        "addressRegion": "Hyderabad",
+        "postalCode": "500082",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.4375,
+        "longitude": 78.4483
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+918328290739",
+        "contactType": "Customer Service",
+        "email": "info.jayedutech@gmail.com",
+        "areaServed": "IN",
+        "availableLanguage": ["English", "Hindi"]
+      },
+      "sameAs": [
+        "https://www.facebook.com/profile.php?id=61592121384813",
+        "https://www.instagram.com/servicenow_techtroop/",
+        "https://www.linkedin.com/company/techtroop-solutions-pvt-ltd/",
+        "https://www.youtube.com/@TechTroop-servicenow",
+        "https://twitter.com/jayedutech"
+      ],
+      "areaServed": {
+        "@type": "City",
+        "name": "Hyderabad"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "ServiceNow Training Courses",
+        "itemListElement": [
+          {
+            "@type": "Course",
+            "name": "ServiceNow CSA Certification",
+            "description": "Certified System Administrator course covering user management, update sets, reporting, and platform health.",
+            "provider": { "@id": "https://jayedutech.com/#organization" }
+          },
+          {
+            "@type": "Course",
+            "name": "ServiceNow CAD Developer Track",
+            "description": "Certified Application Developer course covering server/client scripting, Flow Designer, and REST/SOAP APIs.",
+            "provider": { "@id": "https://jayedutech.com/#organization" }
+          },
+          {
+            "@type": "Course",
+            "name": "ITSM Specialist",
+            "description": "Master IT Service Management workflows including Incident, Problem, Change Management, and CMDB governance.",
+            "provider": { "@id": "https://jayedutech.com/#organization" }
+          },
+          {
+            "@type": "Course",
+            "name": "ITOM Specialist",
+            "description": "Automate IT operations with Discovery, Event Management, and cloud resource provisioning.",
+            "provider": { "@id": "https://jayedutech.com/#organization" }
+          },
+          {
+            "@type": "Course",
+            "name": "HRSD Expert",
+            "description": "Deliver employee experiences through HR Service Delivery, case workflows, and lifecycle automation.",
+            "provider": { "@id": "https://jayedutech.com/#organization" }
+          },
+          {
+            "@type": "Course",
+            "name": "CSM Specialist",
+            "description": "Customer Service Management specialist training track.",
+            "provider": { "@id": "https://jayedutech.com/#organization" }
+          },
+          {
+            "@type": "Course",
+            "name": "Security Pro",
+            "description": "Security Operations specialist training track.",
+            "provider": { "@id": "https://jayedutech.com/#organization" }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://jayedutech.com/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What makes Jay Edutech candidates different from other hires?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our candidates go through a 3-stage vetting process covering technical proficiency, real-world project simulations, and communication assessments. Only the top 1% of applicants make it to your shortlist — every profile you see is deployment-ready."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How quickly can you deploy a ServiceNow professional?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Talent Deployment Velocity is 48 hours. Once you share your requirements, we match, vet, and present shortlisted candidates within two business days. Most clients complete interviews and extend offers within the same week."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are these fresh graduates or experienced professionals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We work with B.Tech and M.Sc graduates who have completed our intensive ServiceNow training programs. While they may be early in their careers, their hands-on project experience and certification depth often exceeds that of mid-level professionals from traditional hiring channels."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What ServiceNow modules do your candidates specialise in?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our talent pool covers ITSM, ITOM, HRSD, Security Operations, Developer Track, and Admin Certification. We can match candidates to your specific module requirements and enterprise stack."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the cost structure for hiring through Jay Edutech?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our model is designed to save you up to 87% compared to traditional staffing agencies. We offer transparent, outcome-based pricing with no hidden fees. Contact us for a custom quote based on your team size and engagement type."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer a replacement guarantee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If a placed candidate doesn't meet your expectations within the first 30 days, we replace them at no additional cost. Our zero mis-hire track record speaks for itself, but the guarantee gives you complete peace of mind."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
